@@ -11,14 +11,10 @@
             "id": "7f2a6ac3ec7b05f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Legami Chimici.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Legami Chimici"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,27 +162,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "ketcher:Create new structure": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "85885e96d8fe29e6",
+  "active": "7f2a6ac3ec7b05f1",
   "lastOpenFiles": [
+    "5. Legami Chimici.md",
+    "immagini/effettosterico.png",
+    "immagini/20251021-124615.png",
+    "Ketcher/Ketcher 10-21-2025 12.23.30.ket",
+    "Ketcher",
+    "immagini/MACOSACAZZOE.png",
+    "immagini/20251021-121059.png",
+    "immagini/geometrie molecolari.png",
+    "immagini/20251021-120955.png",
+    "immagini/VESPR.png",
+    "immagini/20251021-120523.png",
+    "immagini/whatdaphoque2.png",
+    "immagini/20251021-115504.png",
     "4. Nomenclatura.md",
     "3. Ioni e Molecole.md",
-    "5. Legami Chimici.md",
     "Untitled.canvas",
     "2025-10-21.md",
     "Untitled.base",
-    "immagini/esempistrutturelewis.png",
-    "immagini/20251021-114007.png",
-    "immagini/ioneammonio.png",
-    "immagini/20251021-113828.png",
-    "immagini/lewis2.png",
-    "immagini/20251021-113159.png",
-    "immagini/modellolewis.png",
-    "immagini/20251021-112920.png",
-    "immagini/diagramma-leonard.png",
-    "immagini/images.png",
     "2. Moderna Teoria Atomica.md",
     "1. Nozioni Base.md",
     "immagini",

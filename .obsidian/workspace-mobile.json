@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "888557beeb9de7ba",
+        "id": "54327f23ac42bb91",
         "type": "tabs",
         "children": [
           {
-            "id": "f7da2678692d81eb",
+            "id": "6fba3eb3b83c3423",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/5. Legami Chimici 2025-10-29 16.03.39.excalidraw.md"
+                "file": "5. Legami Chimici.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "5. Legami Chimici 2025-10-29 16.03.39.excalidraw"
+              "icon": "lucide-file",
+              "title": "5. Legami Chimici"
             }
           }
         ]
@@ -151,10 +153,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f7da2678692d81eb",
+  "active": "6fba3eb3b83c3423",
   "lastOpenFiles": [
-    "5. Legami Chimici.md",
     "Excalidraw/5. Legami Chimici 2025-10-29 16.03.39.excalidraw.md",
+    "5. Legami Chimici.md",
     "Excalidraw",
     "immagini/tavolaperiodica.jpg",
     "immagini/attrazione.png",

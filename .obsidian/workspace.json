@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,6 +173,8 @@
   },
   "active": "7f2a6ac3ec7b05f1",
   "lastOpenFiles": [
+    "Excalidraw/5. Legami Chimici 2025-10-29 16.03.39.excalidraw.md",
+    "Excalidraw",
     "@test.md",
     "5. Legami Chimici.md",
     "Untitled.base",

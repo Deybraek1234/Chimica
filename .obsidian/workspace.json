@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "5. Legami Chimici"
             }
-          },
-          {
-            "id": "7fa73167692dedee",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,13 +167,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "ketcher:Create new structure": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fa73167692dedee",
+  "active": "7f2a6ac3ec7b05f1",
   "lastOpenFiles": [
+    "@test.md",
     "5. Legami Chimici.md",
+    "Untitled.base",
     "home/franci/Chimica/Chimica/immagini/whatdaphoque2.png",
     "home/franci/Chimica/Chimica/immagini/whatdaphoque.png",
     "home/franci/Chimica/Chimica/immagini/tavolaperiodica.jpg",
@@ -211,7 +201,6 @@
     "3. Ioni e Molecole.md",
     "Untitled.canvas",
     "2025-10-21.md",
-    "Untitled.base",
     "2. Moderna Teoria Atomica.md",
     "1. Nozioni Base.md",
     "immagini",

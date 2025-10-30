@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "146ea94750f364c3",
+        "id": "58a81ee40fc7842c",
         "type": "tabs",
         "children": [
           {
-            "id": "7e49853918bb6369",
+            "id": "fc8f19805f45bd57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,10 +154,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e49853918bb6369",
+  "active": "fc8f19805f45bd57",
   "lastOpenFiles": [
-    "Excalidraw/5. Legami Chimici 2025-10-30 11.57.09.excalidraw.md",
+    "Excalidraw/5. Legami Chimici 2025-10-30 12.20.38.excalidraw.md",
     "5. Legami Chimici.md",
+    "Excalidraw/5. Legami Chimici 2025-10-30 11.57.09.excalidraw.md",
     "Excalidraw/5. Legami Chimici 2025-10-30 11.51.46.excalidraw.md",
     "/5. Legami Chimici.md",
     "/2. Moderna Teoria Atomica.md",

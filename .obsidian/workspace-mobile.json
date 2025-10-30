@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54327f23ac42bb91",
+        "id": "146ea94750f364c3",
         "type": "tabs",
         "children": [
           {
-            "id": "6fba3eb3b83c3423",
+            "id": "7e49853918bb6369",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,24 @@
               },
               "icon": "lucide-file",
               "title": "5. Legami Chimici"
+            }
+          }
+        ]
+      },
+      {
+        "id": "24c5d1ed958bfddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e483ca36717a742d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/5. Legami Chimici 2025-10-30 11.57.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "5. Legami Chimici 2025-10-30 11.57.09.excalidraw"
             }
           }
         ]
@@ -98,6 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Excalidraw/5. Legami Chimici 2025-10-30 11.57.09.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,13 +172,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6fba3eb3b83c3423",
+  "active": "e483ca36717a742d",
   "lastOpenFiles": [
+    "5. Legami Chimici.md",
+    "Excalidraw/5. Legami Chimici 2025-10-30 11.51.46.excalidraw.md",
+    "Excalidraw/5. Legami Chimici 2025-10-30 11.57.09.excalidraw.md",
     "/5. Legami Chimici.md",
     "/2. Moderna Teoria Atomica.md",
     "/Excalidraw",
     "Excalidraw/5. Legami Chimici 2025-10-29 16.03.39.excalidraw.md",
-    "5. Legami Chimici.md",
     "Excalidraw",
     "immagini/tavolaperiodica.jpg",
     "immagini/attrazione.png",

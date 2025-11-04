@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "5. Legami Chimici"
             }
+          },
+          {
+            "id": "9f725d0d63fbe633",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-04 12.07.35.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. Legami Chimici.md",
+            "file": "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,10 +167,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc8f19805f45bd57",
+  "active": "9f725d0d63fbe633",
   "lastOpenFiles": [
-    "Excalidraw/5. Legami Chimici 2025-10-30 12.26.58.excalidraw.md",
     "5. Legami Chimici.md",
+    "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md",
+    "4. Nomenclatura.md",
+    "3. Ioni e Molecole.md",
+    "2. Moderna Teoria Atomica.md",
+    "1. Nozioni Base.md",
+    "Excalidraw/5. Legami Chimici 2025-10-30 12.26.58.excalidraw.md",
     "Excalidraw/5. Legami Chimici 2025-10-30 12.20.38.excalidraw.md",
     "Excalidraw/5. Legami Chimici 2025-10-30 11.57.09.excalidraw.md",
     "Excalidraw/5. Legami Chimici 2025-10-30 11.51.46.excalidraw.md",
@@ -175,10 +193,6 @@
     "immagini/ioneammonio.png",
     "immagini/esempistrutturelewis.png",
     "immagini/repulsione.png",
-    "3. Ioni e Molecole.md",
-    "4. Nomenclatura.md",
-    "1. Nozioni Base.md",
-    "2. Moderna Teoria Atomica.md",
     "immagini/effettosterico.png",
     "immagini"
   ]

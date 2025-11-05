@@ -25,12 +25,14 @@
             "id": "9f725d0d63fbe633",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md"
+                "file": "2. Moderna Teoria Atomica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-04 12.07.35.excalidraw"
+              "icon": "lucide-file",
+              "title": "2. Moderna Teoria Atomica"
             }
           }
         ],
@@ -111,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md",
+            "file": "2. Moderna Teoria Atomica.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,12 +171,22 @@
   },
   "active": "9f725d0d63fbe633",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md",
+    "immagini/what_the_fuck3.png",
+    "immagini/what_the_fuck2.png",
+    "immagini/orbitalimolecolarip.png",
+    "immagini/orbitalimolecolarip2.png",
+    "6. Legami Molecolari.md",
+    "immagini/toomanynames.png",
+    "immagini/PORCODELDIOBESTIA.png",
+    "immagini/what_the_fuck.png",
+    "immagini/toomanynames2.png",
+    "immagini/energylevelsmolecule.png",
+    "/immagini/what_the_fuck3.png",
+    "/6. Legami Molecolari.md",
     "/5. Legami Chimici.md",
-    "/immagini/dna.png",
-    "immagini/dna.png",
     "/immagini",
     "5. Legami Chimici.md",
-    "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md",
     "4. Nomenclatura.md",
     "3. Ioni e Molecole.md",
     "2. Moderna Teoria Atomica.md",
@@ -187,14 +199,6 @@
     "/Excalidraw",
     "Excalidraw/5. Legami Chimici 2025-10-29 16.03.39.excalidraw.md",
     "Excalidraw",
-    "immagini/tavolaperiodica.jpg",
-    "immagini/attrazione.png",
-    "immagini/orbitali_energia.png",
-    "immagini/modellolewis.png",
-    "immagini/costruzionesbagliata.png",
-    "immagini/lewis2.png",
-    "immagini/ioneammonio.png",
-    "immagini/esempistrutturelewis.png",
     "immagini"
   ]
 }

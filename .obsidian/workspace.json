@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5af4c187a1fc92",
+        "id": "89275c11f7993436",
         "type": "tabs",
         "children": [
           {
-            "id": "5564e57bc1762d95",
+            "id": "1e35f65f8ad34395",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "7. Polarità e forze Intermolecolari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Polarità e forze Intermolecolari"
             }
           }
         ]
@@ -178,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5564e57bc1762d95",
+  "active": "1e35f65f8ad34395",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "7. Polarità e forze Intermolecolari.md",
     "6. Modelli per Legami Chimici.md",
     "immagini/bond_order.png",
@@ -224,7 +229,6 @@
     "@test.md",
     "Untitled.base",
     "home/franci/Chimica/Chimica/immagini",
-    "home/franci/Chimica/Chimica/5. Legami Chimici.md",
-    "Untitled.canvas"
+    "home/franci/Chimica/Chimica/5. Legami Chimici.md"
   ]
 }

@@ -11,13 +11,30 @@
             "id": "fe0eb8163d576a2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4. Nomenclatura.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4. Nomenclatura"
+            }
+          },
+          {
+            "id": "cb9ff38a58eab067",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe0eb8163d576a2e",
+  "active": "cb9ff38a58eab067",
   "lastOpenFiles": [
     "7. Polarità e forze Intermolecolari.md",
     "4. Nomenclatura.md",

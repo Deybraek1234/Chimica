@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md",
+                "file": "8. Stati di Aggregazione.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of create a link"
+              "title": "Outline of 8. Stati di Aggregazione"
             }
           },
           {
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,11 +192,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85885e96d8fe29e6",
+  "active": "5cde65243c4a1554",
   "lastOpenFiles": [
     "8. Stati di Aggregazione.md",
     "test.md",

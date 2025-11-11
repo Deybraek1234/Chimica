@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create a link.md",
+                "file": "8. Stati di Aggregazione.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of create a link"
+              "title": "Outline of 8. Stati di Aggregazione"
             }
           },
           {
@@ -193,14 +193,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85885e96d8fe29e6",
+  "active": "3dc02b44c5fce3f4",
   "lastOpenFiles": [
-    "8. Stati di Aggregazione.md",
     "test.md",
+    "8. Stati di Aggregazione.md",
     "immagini/crystal_structures2.png",
     "immagini/20251110-105822.png",
     "immagini/crystal_structures.png",
@@ -243,7 +242,6 @@
     "2. Moderna Teoria Atomica.docx",
     "Excalidraw/5. Legami Chimici 2025-10-29 16.03.39.excalidraw.md",
     "Excalidraw",
-    "@test.md",
     "Untitled.base",
     "home/franci/Chimica/Chimica/immagini"
   ]

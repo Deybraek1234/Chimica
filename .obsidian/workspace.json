@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "8. Stati di Aggregazione"
             }
+          },
+          {
+            "id": "255dc7af491d7583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,14 +211,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dc02b44c5fce3f4",
+  "active": "255dc7af491d7583",
   "lastOpenFiles": [
+    "8. Stati di Aggregazione.md",
+    "test.md",
     "immagini/crystal_structures2.png",
     "immagini/20251110-105822.png",
     "immagini/crystal_structures.png",
     "immagini/20251110-105744.png",
     "7. Polarità e forze Intermolecolari.md",
-    "8. Stati di Aggregazione.md",
     "Untitled.canvas",
     "6. Modelli per Legami Chimici.md",
     "immagini/bond_order.png",
@@ -225,7 +240,6 @@
     "Excalidraw/5. Legami Chimici 2025-10-30 11.57.09.excalidraw.md",
     "Pasted image 20251105124212.png",
     "immagini/energylevelsmolecule.png",
-    "immagini/20251104-124644.png",
     "what_the_fuck3.md",
     "6. Basi DNA.md",
     "Excalidraw/5. Legami Chimici 2025-10-30 12.26.58.excalidraw.md",

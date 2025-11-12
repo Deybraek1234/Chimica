@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Nomenclatura.md",
+                "file": "8. Stati di Aggregazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Nomenclatura"
-            }
-          },
-          {
-            "id": "cb9ff38a58eab067",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "8. Stati di Aggregazione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb9ff38a58eab067",
+  "active": "fe0eb8163d576a2e",
   "lastOpenFiles": [
-    "7. Polarità e forze Intermolecolari.md",
     "4. Nomenclatura.md",
+    "7. Polarità e forze Intermolecolari.md",
     "8. Stati di Aggregazione.md",
     "test.md",
     "immagini/crystal_structures2.png",

@@ -6,7 +6,7 @@
   "ketcher",
   "dataview",
   "obsidian-git",
-  "obsidian-excalidraw-plugin",
   "obsidian-pandoc",
-  "colored-text"
+  "colored-text",
+  "obsidian-excalidraw-plugin"
 ]

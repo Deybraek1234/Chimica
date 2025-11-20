@@ -49,8 +49,7 @@
               "title": "10. Relazioni Ponderali"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -223,10 +221,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b84b8f79d4600c0",
+  "active": "5be78637e63500b0",
   "lastOpenFiles": [
-    "9. Reazioni Chimiche.md",
     "10. Relazioni Ponderali.md",
+    "9. Reazioni Chimiche.md",
     "11. Termochimica.md",
     "4. Nomenclatura.md",
     "Excalidraw/Drawing 2025-11-13 12.08.59.excalidraw.md",

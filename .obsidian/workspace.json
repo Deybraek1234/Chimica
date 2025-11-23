@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. Soluzinoi.md",
+                "file": "4. Nomenclatura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Soluzinoi"
+              "title": "4. Nomenclatura"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -195,8 +196,10 @@
   },
   "active": "6aae9f264fecb49e",
   "lastOpenFiles": [
-    "13. Diagrammi di Fase.md",
+    "3. Ioni e Molecole.md",
+    "5. Legami Chimici.md",
     "12. Soluzinoi.md",
+    "13. Diagrammi di Fase.md",
     "immagini/elettroliti.png",
     "immagini/20251121-113328.png",
     "Pasted image 20251121113334.png",
@@ -218,8 +221,6 @@
     "immagini/bond_order.png",
     "immagini/band_order.png",
     "immagini/20251109-191403.png",
-    "5. Legami Chimici.md",
-    "3. Ioni e Molecole.md",
     "2. Moderna Teoria Atomica.md",
     "1. Nozioni Base.md",
     "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.33.00.excalidraw.md",

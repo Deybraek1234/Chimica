@@ -3,6 +3,8 @@
   "cssTheme": "Minimal",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "centertable"
+    "centertable",
+    "pywal",
+    "TitleABoveNotes"
   ]
 }

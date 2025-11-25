@@ -1,10 +1,11 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "centertable",
     "pywal",
     "TitleABoveNotes"
-  ]
+  ],
+  "accentColor": "#943aee"
 }

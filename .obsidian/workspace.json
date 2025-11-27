@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "13. Diagrammi di Fase"
             }
+          },
+          {
+            "id": "58b8bae4243ccd65",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6f8ff58510dc3c6",
+  "active": "58b8bae4243ccd65",
   "lastOpenFiles": [
     "13. Diagrammi di Fase.md",
     "Pasted image 20251125173230.png",

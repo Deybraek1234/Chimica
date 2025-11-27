@@ -25,12 +25,14 @@
             "id": "58b8bae4243ccd65",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "13. Diagrammi di Fase.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "13. Diagrammi di Fase"
             }
           }
         ],
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -208,6 +211,8 @@
   },
   "active": "58b8bae4243ccd65",
   "lastOpenFiles": [
+    "immagini/diagramma_fase_colligativo.png",
+    "immagini/20251127-113456.png",
     "13. Diagrammi di Fase.md",
     "Pasted image 20251125173230.png",
     "immagini/diagfaseacqua.png",
@@ -218,7 +223,6 @@
     "immagini/20251125-170851.png",
     "immagini/equilibrioliquidovapore.png",
     "immagini/20251125-165314.png",
-    "immagini/temperaturadifusione.png",
     "4. Nomenclatura.md",
     "3. Ioni e Molecole.md",
     "5. Legami Chimici.md",

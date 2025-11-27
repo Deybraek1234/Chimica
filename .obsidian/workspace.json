@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -211,6 +210,10 @@
   },
   "active": "58b8bae4243ccd65",
   "lastOpenFiles": [
+    "immagini/esperimentoosmosi.png",
+    "immagini/20251127-115955.png",
+    "immagini/osmosi.png",
+    "immagini/20251127-115630.png",
     "immagini/diagramma_fase_colligativo.png",
     "immagini/20251127-113456.png",
     "13. Diagrammi di Fase.md",
@@ -219,10 +222,6 @@
     "immagini/20251125-173444.png",
     "immagini/diagfase.png",
     "immagini/20251125-172538.png",
-    "immagini/evaporazionecondensazionevelocità.png",
-    "immagini/20251125-170851.png",
-    "immagini/equilibrioliquidovapore.png",
-    "immagini/20251125-165314.png",
     "4. Nomenclatura.md",
     "3. Ioni e Molecole.md",
     "5. Legami Chimici.md",

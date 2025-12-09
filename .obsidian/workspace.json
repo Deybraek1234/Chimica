@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. Equilibrio Chimico.md",
+                "file": "12. Soluzioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Equilibrio Chimico"
+              "title": "12. Soluzioni"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -210,11 +211,11 @@
   },
   "active": "59278a2cc557c3ff",
   "lastOpenFiles": [
+    "14. Equilibrio Chimico.md",
     "13. Diagrammi di Fase.md",
     "12. Soluzioni.md",
     "15. Acidi e Basi.md",
     "15. Acidi e Basi.tex",
-    "14. Equilibrio Chimico.md",
     "Excalidraw/Drawing 2025-12-09 11.55.17.excalidraw.md",
     "4. Nomenclatura.md",
     "5. Legami Chimici.md",

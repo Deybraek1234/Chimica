@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Diagrammi di Fase.md",
+                "file": "15. Acidi e Basi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Diagrammi di Fase"
+              "title": "15. Acidi e Basi"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -211,9 +210,9 @@
   },
   "active": "59278a2cc557c3ff",
   "lastOpenFiles": [
+    "13. Diagrammi di Fase.md",
     "12. Soluzioni.md",
     "14. Equilibrio Chimico.md",
-    "13. Diagrammi di Fase.md",
     "15. Acidi e Basi.md",
     "15. Acidi e Basi.tex",
     "Excalidraw/Drawing 2025-12-09 11.55.17.excalidraw.md",

@@ -35,7 +35,8 @@
               "title": "17. Elettrochimica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dcc5421f2cf42a8",
+  "active": "64a524cd9deea99e",
   "lastOpenFiles": [
-    "17. Elettrochimica.md",
     "16. Equilibri di Soubilità.md",
+    "17. Elettrochimica.md",
     "immagini/solubili.png",
     "immagini/20251216-112212.png",
     "3. Ioni e Molecole.md",

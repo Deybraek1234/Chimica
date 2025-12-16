@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "16. Equilibri di Soubilità"
             }
+          },
+          {
+            "id": "64a524cd9deea99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. Elettrochimica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17. Elettrochimica"
+            }
           }
         ]
       }
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -195,6 +210,8 @@
   },
   "active": "2dcc5421f2cf42a8",
   "lastOpenFiles": [
+    "17. Elettrochimica.md",
+    "16. Equilibri di Soubilità.md",
     "immagini/solubili.png",
     "immagini/20251216-112212.png",
     "3. Ioni e Molecole.md",
@@ -205,7 +222,6 @@
     "4. Nomenclatura.md",
     "12. Soluzioni.md",
     "11. Termochimica.md",
-    "16. Equilibri di Soubilità.md",
     "15. Acidi e Basi.md",
     "init.lua",
     "immagini/images.jpg",
@@ -222,7 +238,6 @@
     "immagini/20251202-120925.png",
     "immagini/AIUTOAIUTOAIUTO.png",
     "immagini/20251202-120839.png",
-    "immagini/MAPERCHECHIMICAFASCHIFO.png",
     "10. Relazioni Ponderali.md",
     "Excalidraw/Drawing 2025-11-13 12.08.59.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md",

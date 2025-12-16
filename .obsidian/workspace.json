@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16. Equilibri di Soubilità.md",
+                "file": "12. Soluzioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Equilibri di Soubilità"
+              "title": "12. Soluzioni"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -195,9 +196,9 @@
   },
   "active": "2dcc5421f2cf42a8",
   "lastOpenFiles": [
+    "17. Elettrochimica.md",
     "Untitled 1.base",
     "Untitled.base",
-    "17. Elettrochimica.md",
     "16. Equilibri di Soubilità.md",
     "immagini/solubili.png",
     "immagini/20251216-112212.png",
@@ -240,7 +241,6 @@
     "4. Nomenclatura.pdf",
     "3. Ioni e Molecole.pdf",
     "1. Nozioni Base.pdf",
-    "2. Moderna Teoria Atomica.pdf",
-    "2. Moderna Teoria Atomica.docx"
+    "2. Moderna Teoria Atomica.pdf"
   ]
 }

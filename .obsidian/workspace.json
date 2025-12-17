@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6f8ff58510dc3c6",
+            "id": "2dcc5421f2cf42a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "14. Equilibrio Chimico"
             }
-          },
-          {
-            "id": "59278a2cc557c3ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15. Acidi e Basi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15. Acidi e Basi"
-            }
-          },
-          {
-            "id": "2dcc5421f2cf42a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16. Equilibri di Soubilità.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16. Equilibri di Soubilità"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -186,8 +158,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -196,12 +168,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,7 +182,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -219,57 +190,56 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "2dcc5421f2cf42a8",
   "lastOpenFiles": [
-    "init.lua",
-    "15. Acidi e Basi.md",
+    "13. Diagrammi di Fase.md",
+    "12. Soluzioni.md",
+    "17. Elettrochimica.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "16. Equilibri di Soubilità.md",
+    "immagini/solubili.png",
+    "immagini/20251216-112212.png",
+    "3. Ioni e Molecole.md",
+    "2. Moderna Teoria Atomica.md",
+    "1. Nozioni Base.md",
+    "7. Polarità e forze Intermolecolari.md",
+    "5. Legami Chimici.md",
+    "4. Nomenclatura.md",
+    "11. Termochimica.md",
+    "15. Acidi e Basi.md",
+    "init.lua",
     "immagini/images.jpg",
     "immagini/images.webp",
     "immagini/ammoniaca.png",
     "immagini/20251211-121724.png",
-    "13. Diagrammi di Fase.md",
-    "12. Soluzioni.md",
     "14. Equilibrio Chimico.md",
     "15. Acidi e Basi.tex",
     "Excalidraw/Drawing 2025-12-09 11.55.17.excalidraw.md",
-    "4. Nomenclatura.md",
-    "5. Legami Chimici.md",
-    "7. Polarità e forze Intermolecolari.md",
     "8. Stati di Aggregazione.md",
     "9. Reazioni Chimiche.md",
-    "11. Termochimica.md",
     "immagini/mabastatiprego.png",
     "immagini/20251202-120925.png",
     "immagini/AIUTOAIUTOAIUTO.png",
     "immagini/20251202-120839.png",
-    "immagini/MAPERCHECHIMICAFASCHIFO.png",
-    "immagini/20251202-120715.png",
-    "3. Ioni e Molecole.md",
     "10. Relazioni Ponderali.md",
     "Excalidraw/Drawing 2025-11-13 12.08.59.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md",
     "test.md",
     "Untitled.canvas",
     "6. Modelli per Legami Chimici.md",
-    "2. Moderna Teoria Atomica.md",
-    "1. Nozioni Base.md",
     "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.33.00.excalidraw.md",
     "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.27.58.excalidraw.md",
     "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.25.55.excalidraw.md",
     "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.23.56.excalidraw.md",
-    "6. Legami Molecolari.md",
     "5. Legami Chimici.html",
     "5. Legami Chimici.pdf",
     "4. Nomenclatura.pdf",
     "3. Ioni e Molecole.pdf",
     "1. Nozioni Base.pdf",
-    "2. Moderna Teoria Atomica.pdf",
-    "2. Moderna Teoria Atomica.docx",
-    "Excalidraw",
-    "Untitled.base"
+    "2. Moderna Teoria Atomica.pdf"
   ]
 }

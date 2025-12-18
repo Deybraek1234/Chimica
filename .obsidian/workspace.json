@@ -190,16 +190,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "2dcc5421f2cf42a8",
   "lastOpenFiles": [
     "14. Equilibrio Chimico.md",
-    "immagini/Esame24_2009_c662ad94d0b99626da6dba891d2a63ec.pdf",
-    "Pasted image 20251217180514.png",
-    "Excalidraw/15. Acidi e Basi 2025-12-17 18.01.23.excalidraw.md",
     "13. Diagrammi di Fase.md",
     "12. Soluzioni.md",
     "17. Elettrochimica.md",
@@ -228,6 +224,7 @@
     "immagini/mabastatiprego.png",
     "immagini/20251202-120925.png",
     "immagini/AIUTOAIUTOAIUTO.png",
+    "immagini/20251202-120839.png",
     "10. Relazioni Ponderali.md",
     "Excalidraw/Drawing 2025-11-13 12.08.59.excalidraw.md",
     "Excalidraw/Drawing 2025-11-04 12.07.35.excalidraw.md",
@@ -237,10 +234,12 @@
     "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.33.00.excalidraw.md",
     "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.27.58.excalidraw.md",
     "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.25.55.excalidraw.md",
+    "Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.23.56.excalidraw.md",
     "5. Legami Chimici.html",
     "5. Legami Chimici.pdf",
     "4. Nomenclatura.pdf",
     "3. Ioni e Molecole.pdf",
-    "1. Nozioni Base.pdf"
+    "1. Nozioni Base.pdf",
+    "2. Moderna Teoria Atomica.pdf"
   ]
 }

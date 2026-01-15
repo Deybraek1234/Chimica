@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Moderna Teoria Atomica.md",
+                "file": "4. Nomenclatura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Moderna Teoria Atomica"
+              "title": "4. Nomenclatura"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5548ab7be0bc2310",
@@ -195,6 +196,7 @@
   },
   "active": "2dcc5421f2cf42a8",
   "lastOpenFiles": [
+    "2. Moderna Teoria Atomica.md",
     "17. Elettrochimica.md",
     "conflict-files-obsidian-git.md",
     "14. Equilibrio Chimico.md",
@@ -209,7 +211,6 @@
     "immagini/solubili.png",
     "immagini/20251216-112212.png",
     "3. Ioni e Molecole.md",
-    "2. Moderna Teoria Atomica.md",
     "1. Nozioni Base.md",
     "7. Polarità e forze Intermolecolari.md",
     "5. Legami Chimici.md",

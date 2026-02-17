@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "4. Nomenclatura"
             }
+          },
+          {
+            "id": "faafbd308a3e291a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dcc5421f2cf42a8",
+  "active": "faafbd308a3e291a",
   "lastOpenFiles": [
     "2. Moderna Teoria Atomica.md",
     "17. Elettrochimica.md",

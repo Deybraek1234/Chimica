@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "147115b9862d2687",
+        "id": "b33c07783e661085",
         "type": "tabs",
         "children": [
           {
-            "id": "f71aea3870174b8c",
+            "id": "c598abe2028d3bf4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,7 +185,8 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "85885e96d8fe29e6",

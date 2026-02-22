@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "672b1d5f571f2b2f",
+        "id": "147115b9862d2687",
         "type": "tabs",
         "children": [
           {
-            "id": "2dcc5421f2cf42a8",
+            "id": "f71aea3870174b8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chimica/1. Nozioni Base.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. Nozioni Base"
+              "title": "New tab"
             }
           }
         ]
@@ -189,12 +185,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2dcc5421f2cf42a8",
+  "active": "85885e96d8fe29e6",
   "lastOpenFiles": [
+    "Chimica/1. Nozioni Base.md",
+    "Analisi Statistica Dati/Untitled.md",
     "Analisi Statistica Dati",
     "Chimica/2. Moderna Teoria Atomica.md",
     "Chimica/4. Nomenclatura.md",
@@ -213,7 +210,6 @@
     "Chimica/immagini/solubili.png",
     "immagini/20251216-112212.png",
     "Chimica/3. Ioni e Molecole.md",
-    "Chimica/1. Nozioni Base.md",
     "Chimica/7. Polarità e forze Intermolecolari.md",
     "Chimica/5. Legami Chimici.md",
     "Chimica/11. Termochimica.md",
@@ -240,7 +236,6 @@
     "Chimica/Excalidraw/7. Polarità e forze Intermolecolari 2025-11-06 13.27.58.excalidraw.md",
     "5. Legami Chimici.html",
     "5. Legami Chimici.pdf",
-    "4. Nomenclatura.pdf",
-    "3. Ioni e Molecole.pdf"
+    "4. Nomenclatura.pdf"
   ]
 }
